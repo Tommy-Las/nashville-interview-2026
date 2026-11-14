@@ -1,0 +1,15 @@
+# Confidential assessment data - never commit
+data/
+
+# OS / editor
+.DS_Store
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+
+
+notes/
+
+slides/
